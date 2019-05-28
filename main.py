@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 ## import para limpiar pantalla
 from os import system, name
+# import para manejar fechas
 from datetime import date, timedelta
+# import para el ordenamiento de conciertos
 from operator import itemgetter
 
 anio = 2019
